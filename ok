@@ -1,0 +1,7 @@
+{
+  "groupId": 1234567,
+  "allowedPlayers": [
+    "yaroslavvoron08",
+    "AdminUser"
+  ]
+}
